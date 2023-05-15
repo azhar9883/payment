@@ -1,0 +1,38 @@
+.log {
+    width: 46px;
+    height: 19px;
+    /* font-family: 'Raleway'; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    text-align: center;
+    color: #000000;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.jon {
+    /* width: 82px;
+height: 19px; */
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    /* display: flex;
+align-items: center; */
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+
